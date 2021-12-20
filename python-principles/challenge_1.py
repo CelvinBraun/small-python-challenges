@@ -13,6 +13,5 @@ def capital_indexes(capitalString):
 
     return indexList
 
-
 indexValues = capital_indexes("HeLlO")
 print(indexValues)
